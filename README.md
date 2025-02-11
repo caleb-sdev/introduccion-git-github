@@ -17,7 +17,7 @@ Este repositorio contiene los archivos y recursos requeridos para la tarea final
 - El repositorio incluye un archivo **README.md** con una descripción general del proyecto y las tareas realizadas.
 
 ### Tarea 4: Archivo CODE_OF_CONDUCT.md
-- Se incluye un archivo **CODE_OF_CONDUCT.md** con las directrices de conducta para contribuir al repositorio.
+- Se incluye un archivo **CODE_OF_CONDUCT.md** con las directrices de conducta para contribuir al repositorio....
 
 ### Tarea 5: Archivo CONTRIBUTING.md
 - El repositorio tiene un archivo **CONTRIBUTING.md** con las instrucciones sobre cómo contribuir a este proyecto.
