@@ -8,7 +8,7 @@ Este repositorio contiene los archivos y recursos requeridos para la tarea final
 ## Parte 1: Interfaz de usuario de GitHub
 
 ### Tarea 1: URL del Repositorio
-- **URL del repositorio**: [https://github.com/tu-usuario/nombre-del-repositorio](https://github.com/tu-usuario/nombre-del-repositorio)
+- **URL del repositorio**: [[https://github.com/tu-usuario/nombre-del-repositorio](https://github.com/tu-usuario/nombre-del-repositorio)](https://github.com/caleb-sdev/introduccion-git-github)
 
 ### Tarea 2: Licencia Apache 2.0
 - El repositorio contiene un archivo de licencia llamado **LICENSE** con la licencia **Apache 2.0**.
